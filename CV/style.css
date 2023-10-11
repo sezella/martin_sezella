@@ -1,0 +1,24 @@
+.contenedor{
+    max-width: 50%;
+    margin: 0 auto;
+    border: solid 2px;
+    color: black;
+    padding: 100px;
+    background-image: url(fondo.jpeg);
+}
+.borde{
+    border-bottom: solid 3px;
+    color: blue;
+}
+.imagenp{
+    display: flex;
+    gap: 20px;
+}
+.nombrepeli{
+    display: flex;
+    gap: 110px;
+    text-align: center;
+}
+.color{
+    color:white;
+}
